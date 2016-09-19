@@ -1,5 +1,5 @@
-require 'sinstra'
+require 'sinatra'
 
 get '/' do
- "Hello World Heroku & sinatora"
+ "Hello World!"
 end
