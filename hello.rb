@@ -1,6 +1,5 @@
 require 'sinstra'
 
 get '/' do
-
- "Hello World!"
+ "Hello World Heroku & sinatora"
 end
